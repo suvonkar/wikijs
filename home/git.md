@@ -6,7 +6,7 @@ git remote set-url origin https://<username>:<password>@pswgithub.rds.lexmark.co
 
 https://stackoverflow.com/questions/34400272/visual-studio-code-always-asking-for-git-credentials/45517871#45517871
 
-# Set Remote URL to avoid continuously asking for credentials: 
+# Skipping password:
 !   #   $    &   '   (   )   *   +   ,   /   :   ;   =   ?   @   [   ]
 %21 %23 %24 %26 %27 %28 %29 %2A %2B %2C %2F %3A %3B %3D %3F %40 %5B %5D
 
