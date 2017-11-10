@@ -18,11 +18,11 @@ https://stackoverflow.com/questions/6172719/escape-character-in-git-proxy-passwo
 
 git clone --mirror https://suvonkar-es-kolkata@bitbucket.org/kolkataportal/lms.git
 
-**Make a bare mirrored clone of the repository
+*Make a bare mirrored clone of the repository*
 
 cd dashboard.git
 git remote set-url --push origin https://pswgithub.rds.lexmark.com/Indiaportal/LMS.git
-**Set the push location to your mirror
+*Set the push location to your mirror*
 
 git push –mirror
 
