@@ -2,4 +2,4 @@
 <!-- SUBTITLE: All about my wiki -->
 
 # Git
-git
+Wiki about git - http://localhost/home/git
