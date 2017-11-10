@@ -1,5 +1,5 @@
 <!-- TITLE: My Home -->
 <!-- SUBTITLE: All about my wiki -->
 
-# Wiki about git 
+# Git 
 http://localhost/home/git
