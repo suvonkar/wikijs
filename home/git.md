@@ -29,3 +29,20 @@ https://stackoverflow.com/questions/6172719/escape-character-in-git-proxy-passwo
 
 https://stackoverflow.com/questions/22906917/how-to-move-git-repository-with-all-branches-from-bitbucket-to-github
 
+# Install SSL certificate in Git:
+
+Kofax Certificate URL : 
+https://pswgithub.rds.lexmark.com/trupe/snips/blob/master/certificates/install_windows.md
+
+Open Command promt.
+Run "where git"
+Open the folder upto '\Git'
+Then go to 'mingw64\ssl\certs'
+Edit ca-bundle.crt and paste the above url certificate code at the end and save
+
+--------------------------------------------------------------------------------------
+OR,
+`git config --global http.sslVerify "false"`
+or,
+`git config --global http.sslVerify false`
+
