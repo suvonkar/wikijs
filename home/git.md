@@ -46,3 +46,7 @@ OR,
 or,
 `git config --global http.sslVerify false`
 
+
+# Creating an issue template for your repository
+
+https://help.github.com/articles/creating-an-issue-template-for-your-repository/
