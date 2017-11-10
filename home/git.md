@@ -1,6 +1,8 @@
 <!-- TITLE: Git -->
 <!-- SUBTITLE: Wiki for Git -->
 
+Home - http://localhost/
+
 # Set Remote URL to avoid continuously asking for credentials: 
 git remote set-url origin https://<username>:<password>@pswgithub.rds.lexmark.com/Indiaportal/LMS.git
 
