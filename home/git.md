@@ -22,6 +22,7 @@ https://stackoverflow.com/questions/6172719/escape-character-in-git-proxy-passwo
 
 `cd dashboard.git`
 `git remote set-url --push origin https://pswgithub.rds.lexmark.com/Indiaportal/LMS.git`
+
 *Set the push location to your mirror*
 
 `git push –mirror`
